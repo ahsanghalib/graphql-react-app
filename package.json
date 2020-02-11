@@ -1,0 +1,19 @@
+{
+  "name": "graphql-react-app",
+  "version": "1.0.0",
+  "description": "Graphql React Mongodb App",
+  "main": "app.js",
+  "repository": "https://github.com/ahsanghalib/graphql-react-app.git",
+  "author": "ahsanghalib <ahsanghalib@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
